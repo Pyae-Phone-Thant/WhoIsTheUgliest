@@ -1,0 +1,61 @@
+﻿@model WhoIsTheUgliest.Models.ImageAndVote
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Who is the ugliest?</h1>
+</div>
+<table class="center">
+    <thead>
+        <tr>
+            <th><img style="cursor:pointer" id="img1" onclick="imageClicked(this)" /></th>
+            <th><img style="cursor:pointer" id="img2" onclick="imageClicked(this)" /></th>
+        </tr>
+    </thead>
+</table>
+@section Scripts {
+    <script>
+        window.onload=function(){
+            setRandomImages()
+        }
+        function getRandomInt(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+        function setRandomImages(){
+            let x1=getRandomInt(0,7);
+            let x2=getRandomInt(0,7);
+            while(x1==x2){
+               x2=getRandomInt(0,7);
+            }
+
+            var modelData = @Html.Raw(Json.Serialize(Model.Votes));
+            var keys = Object.keys(modelData);
+            console.log(keys[x1]);
+            let img1=document.getElementById("img1");
+            let img2=document.getElementById("img2");
+            img1.src=keys[x1];
+            img2.src=keys[x2]
+        }
+        function imageClicked(image) {
+            var imgname=image.src.split("/").pop();
+            let xhr = new XMLHttpRequest();
+            xhr.open("POST", "/Home/UpdateCount");
+            xhr.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function() {
+                if (this.readyState == XMLHttpRequest.DONE) {
+                // convert from JSON string to JavaScript object
+                let data = JSON.parse(this.responseText);
+                // check availability response
+                if (data.isOkay == false)
+                   alert("Error occured.");
+                }
+                else{
+                    setRandomImages()
+                }
+            }
+            xhr.send("imagename=/images/"+imgname)
+        }
+    </script>
+}

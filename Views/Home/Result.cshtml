@@ -1,0 +1,25 @@
+﻿@model WhoIsTheUgliest.Models.ImageAndVote
+@{
+    ViewData["Title"] = "Result";
+}
+
+<h1>Result</h1>
+<table class="center">
+    <thead>
+        <tr>
+            @for (int i = 0; i < Model.Votes.Count; i++)
+            {
+                <th><img src="@Model.Votes.ElementAt(i).Key" width="120" height="120" /></th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @for (int i = 0; i < Model.Votes.Count; i++)
+            {
+                <th style="text-align:center">@Model.Votes.ElementAt(i).Value</th>
+            }
+        </tr>
+    </tbody>
+</table>
+
