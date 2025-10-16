@@ -1,279 +1,279 @@
 {
   "Files": [
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WhoIsTheUgliest.bundle.scp.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WhoIsTheUgliest.bundle.scp.css",
       "PackagePath": "staticwebassets\\WhoIsTheUgliest.h0l1a386zb.bundle.scp.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\css\\site.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\favicon.ico",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\images\\CLM.jpg",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\images\\CLM.jpg",
       "PackagePath": "staticwebassets\\images\\CLM.jpg"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\images\\me.jpg",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\images\\me.jpg",
       "PackagePath": "staticwebassets\\images\\me.jpg"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\images\\mnp.jpg",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\images\\mnp.jpg",
       "PackagePath": "staticwebassets\\images\\mnp.jpg"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\images\\pe.jpg",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\images\\pe.jpg",
       "PackagePath": "staticwebassets\\images\\pe.jpg"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\images\\pmh.jpg",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\images\\pmh.jpg",
       "PackagePath": "staticwebassets\\images\\pmh.jpg"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\images\\psa.jpg",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\images\\psa.jpg",
       "PackagePath": "staticwebassets\\images\\psa.jpg"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\images\\pucho.jpg",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\images\\pucho.jpg",
       "PackagePath": "staticwebassets\\images\\pucho.jpg"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\images\\tint.jpg",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\images\\tint.jpg",
       "PackagePath": "staticwebassets\\images\\tint.jpg"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\js\\site.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\ISS\\WhoIsTheUgliest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

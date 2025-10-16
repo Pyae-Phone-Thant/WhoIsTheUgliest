@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "We4V9eMpDFk=",
+  "dgSpecHash": "c5kCSPzwINA=",
   "success": true,
-  "projectFilePath": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\WhoIsTheUgliest.csproj",
+  "projectFilePath": "C:\\ISS\\WhoIsTheUgliest\\WhoIsTheUgliest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pyaep\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\pyaep\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

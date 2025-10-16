@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\WhoIsTheUgliest.csproj",
+      "projectUniqueName": "C:\\ISS\\WhoIsTheUgliest\\WhoIsTheUgliest.csproj",
       "projectName": "WhoIsTheUgliest",
-      "projectPath": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\WhoIsTheUgliest.csproj",
+      "projectPath": "C:\\ISS\\WhoIsTheUgliest\\WhoIsTheUgliest.csproj",
       "packagesPath": "C:\\Users\\pyaep\\.nuget\\packages\\",
-      "outputPath": "C:\\ISS\\APS.Net MVC_CW\\WhoIsTheUgliest\\obj\\",
+      "outputPath": "C:\\ISS\\WhoIsTheUgliest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

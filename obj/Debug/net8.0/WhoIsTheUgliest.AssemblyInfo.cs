@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhoIsTheUgliest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7741c9bb803f2c7211b565f85e924851cfa1817f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhoIsTheUgliest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhoIsTheUgliest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

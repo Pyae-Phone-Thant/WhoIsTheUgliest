@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ISS\\WhoIsTheUgliest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A164A8BB-F834-4079-B910-FEF4FA8D8B89}|WhoIsTheUgliest.csproj|c:\\iss\\whoistheugliest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A164A8BB-F834-4079-B910-FEF4FA8D8B89}|WhoIsTheUgliest.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A164A8BB-F834-4079-B910-FEF4FA8D8B89}|WhoIsTheUgliest.csproj|c:\\iss\\whoistheugliest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A164A8BB-F834-4079-B910-FEF4FA8D8B89}|WhoIsTheUgliest.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A164A8BB-F834-4079-B910-FEF4FA8D8B89}|WhoIsTheUgliest.csproj|c:\\iss\\whoistheugliest\\models\\imageandvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A164A8BB-F834-4079-B910-FEF4FA8D8B89}|WhoIsTheUgliest.csproj|solutionrelative:models\\imageandvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A164A8BB-F834-4079-B910-FEF4FA8D8B89}|WhoIsTheUgliest.csproj|c:\\iss\\whoistheugliest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A164A8BB-F834-4079-B910-FEF4FA8D8B89}|WhoIsTheUgliest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageAndVote.cs",
+              "DocumentMoniker": "C:\\ISS\\WhoIsTheUgliest\\Models\\ImageAndVote.cs",
+              "RelativeDocumentMoniker": "Models\\ImageAndVote.cs",
+              "ToolTip": "C:\\ISS\\WhoIsTheUgliest\\Models\\ImageAndVote.cs",
+              "RelativeToolTip": "Models\\ImageAndVote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:44:29.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ISS\\WhoIsTheUgliest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ISS\\WhoIsTheUgliest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:39:20.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ISS\\WhoIsTheUgliest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ISS\\WhoIsTheUgliest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:37:19.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ISS\\WhoIsTheUgliest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ISS\\WhoIsTheUgliest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:37:00.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
