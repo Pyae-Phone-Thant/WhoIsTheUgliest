@@ -6,12 +6,10 @@ namespace WhoIsTheUgliest.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
         private ImageAndVote ImageAndVote;
 
-        public HomeController(ILogger<HomeController> logger, ImageAndVote imageAndVote)
+        public HomeController(ImageAndVote imageAndVote)
         {
-            _logger = logger;
             this.ImageAndVote = imageAndVote;
         }
 
